@@ -9,7 +9,9 @@ The Random.org website has an [excellent article](https://giveaways.random.org/w
 I will demonstrate to you that you can manipulate the drawing results by using the official Random.org website. To get started, watch the following video:
 
 
+
 ![Random.org cheater](random_org_cheat.gif)
+
 
 
 **So, BINGO!!! I won 1B dollars!!!**
@@ -34,6 +36,6 @@ A few tips:
 - ask to refresh the page - this will reset the actions of all pre-installed scripts
 - check the site certificates
 - ask to press several times the button which is responsible for issuing the result (4-10 times, at your discretion). If there is a preset initial sequence, it will be knocked down.
-- use the [Multi-Round Giveaway Service checking] (https://giveaways.random.org/) ;)
-- You should know where, who and how you can be deceived (https://en.wikipedia.org/wiki/Social_engineering_(security))
+- use the [Multi-Round Giveaway Service checking](https://giveaways.random.org/) ;)
+- You should know [where, who and how](https://en.wikipedia.org/wiki/Social_engineering_(security)) you can be deceived.
 
