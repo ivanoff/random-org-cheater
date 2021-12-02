@@ -1,6 +1,6 @@
 # Random.org Cheater
 
-### Stop trusting randomizing sites!
+### Stop trusting video from randomizing sites!
 
 
 The Random.org website has an [excellent article](https://giveaways.random.org/warning) about scammers who use a fake randomizer for their own purposes. The article mentions that the attacker is using a web page similar to Random.org, but with pre-installed draw results.
